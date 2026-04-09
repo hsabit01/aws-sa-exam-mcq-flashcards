@@ -1,6 +1,6 @@
 # AWS SAA MCQ Resource Index
 
-This README provides a one-view index of the AWS Solutions Architect Associate MCQ resources collected in <a href="./MCQ.md" target="_blank" rel="noopener noreferrer">MCQ.md</a>. It brings together every Quizlet flashcard set, every quiz link, and the topic coverage for each section in a single, easy-to-scan document.
+This README provides a one-view index of the AWS Solutions Architect Associate topics. It brings together every Quizlet flashcard set, every quiz link, and the topic coverage for each section in a single, easy-to-scan document.
 
 ## Table of Contents
 
