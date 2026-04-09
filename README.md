@@ -6,9 +6,10 @@ This README provides a one-view index of the AWS Solutions Architect Associate t
 
 1. <a href="#overview" target="_blank" rel="noopener noreferrer">Overview</a>
 2. <a href="#identity-compute-and-availability" target="_blank" rel="noopener noreferrer">Identity, Compute, and Availability</a>
-3. <a href="#databases-dns-and-platform-services" target="_blank" rel="noopener noreferrer">Databases, DNS, and Platform Services</a>
-4. <a href="#storage-security-and-content-delivery" target="_blank" rel="noopener noreferrer">Storage, Security, and Content Delivery</a>
-5. <a href="#messaging-and-streaming" target="_blank" rel="noopener noreferrer">Messaging and Streaming</a>
+3. <a href="#containers-and-orchestration" target="_blank" rel="noopener noreferrer">Containers and Orchestration</a>
+4. <a href="#databases-dns-and-platform-services" target="_blank" rel="noopener noreferrer">Databases, DNS, and Platform Services</a>
+5. <a href="#storage-security-and-content-delivery" target="_blank" rel="noopener noreferrer">Storage, Security, and Content Delivery</a>
+6. <a href="#messaging-and-streaming" target="_blank" rel="noopener noreferrer">Messaging and Streaming</a>
 
 ## Overview
 
@@ -28,6 +29,7 @@ This README provides a one-view index of the AWS Solutions Architect Associate t
 | 12. CloudFront and Global Accelerator | Storage, Security, and Content Delivery | <a href="https://quizlet.com/tr/1165813519/12cloudfront-and-global-accelerator-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLScTwK8N-I0R0yU0PjiRsE2vEvH6uBHCLta6548c8Vx6Ywsh9A/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 | 13. AWS Storage Extras | Storage, Security, and Content Delivery | <a href="https://quizlet.com/tr/1165814028/13aws-storage-extras-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfy43TuYJhW-logjGKJu4CBKVfi4ghkvVjUX62MVSBhqCgRJQ/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 | 14. SQS, SNS, Kinesis, Active MQ | Messaging and Streaming | <a href="https://quizlet.com/tr/1165814746/14sqs-sns-kinesis-active-mq-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6dvHTSuqpawY9kDxIpvumt12g_OR9r3ks_VwWaJIxEKXKNg/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
+| 15. Containers on AWS: ECS, Fargate, ECR & EKS | Containers and Orchestration | <a href="https://quizlet.com/tr/1165994820/15containers-on-aws-ecs-fargate-ecr-eks-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSexbSYlU7WjR3zpFpIzAbKACGIjsub4a9nuPmvp5TQH8VYhKg/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 
 ## Identity, Compute, and Availability
 
@@ -38,6 +40,12 @@ This README provides a one-view index of the AWS Solutions Architect Associate t
 | Identity, Compute, and Availability | 3. EC2 Placement Groups & Networking | Placement strategy, network interfaces, Elastic IPs, and hibernation. | Elastic IP<br>Placement Groups<br>Cluster Placement Group<br>Spread Placement Group<br>Partition Placement Group<br>Elastic Network Interface (ENI)<br>EC2 Hibernate | <a href="https://quizlet.com/tr/1165808542/3ec2-placement-groups-networking-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> / <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiW89mBvSVv0zf8pG4tY46SxK74C--yK0w_23SExXpqKK79A/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 | Identity, Compute, and Availability | 4. EC2 Storage | Block, file, and image storage options for EC2 workloads. | Elastic Storage Block (ESB)<br>EBS Snapshot<br>EBS Snapshot Features<br>Amazon Machine Image (AMI)<br>EBS Volume Types<br>EBS Multi-Attach<br>Elastic File System (EFS)<br>EFS Use Cases and Access<br>EFS Performance and Throughput Modes<br>EFS Storage Classes and Lifecycle Tiers<br>EBS vs EFS vs Instance Store | <a href="https://quizlet.com/tr/1165808985/4ec2-storage-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> / <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMNmH5dWUMaCPqH4mS5kcftG9sgKeU3Q1pt3ICNFsBTU3ODg/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 | Identity, Compute, and Availability | 5. Scalability and Availability | Load balancing, scaling patterns, and Auto Scaling behavior. | Scalability and Availability<br>Horizontal Scalability<br>Horizontal Scalability<br>Elastic Load Balancers<br>Application Load Balancer (ALB)<br>Network Load Balancer<br>Server Name Indication<br>Gateway Load Balancer (GWLB)<br>Target Groups<br>Sticky Sessions<br>Cross-Zone Load Balancing<br>Connection Draining<br>Auto Scaling Group<br>Scaling Policies<br>Scaling Cooldown | <a href="https://quizlet.com/tr/1165809314/5scalability-and-availability-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> / <a href="https://docs.google.com/forms/d/e/1FAIpQLSfpkaeuxX2cuWCOa6IO1_R1hz9MPBt8jByMEAyOqrwck2xEoQ/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
+
+## Containers and Orchestration
+
+| Category | MCQ Set | Description | Topics Covered | Link |
+| --- | --- | --- | --- | --- |
+| Containers and Orchestration | 15. Containers on AWS: ECS, Fargate, ECR & EKS | AWS container orchestration, serverless containers, Kubernetes, and related deployment tooling. | AWS Container Management<br>Amazon ECS - EC2 Launch Type<br>Amazon ECS – Fargate Launch Type<br>Amazon ECS – IAM Roles for ECS<br>Amazon ECS – Load Balancer Integrations<br>Amazon ECS – Data Volumes (EFS)<br>Amazon ECS - Auto Scaling<br>Amazon EKS<br>Amazon EKS – Node Types<br>Amazon EKS – Data Volumes<br>AWS App Runner<br>AWS App2Container | <a href="https://quizlet.com/tr/1165994820/15containers-on-aws-ecs-fargate-ecr-eks-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> / <a href="https://docs.google.com/forms/d/e/1FAIpQLSexbSYlU7WjR3zpFpIzAbKACGIjsub4a9nuPmvp5TQH8VYhKg/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 
 ## Databases, DNS, and Platform Services
 
