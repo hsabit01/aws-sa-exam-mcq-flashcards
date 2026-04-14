@@ -8,9 +8,10 @@ This README provides a one-view index of the AWS Solutions Architect Associate t
 2. <a href="#identity-compute-and-availability" target="_blank" rel="noopener noreferrer">Identity, Compute, and Availability</a>
 3. <a href="#containers-and-orchestration" target="_blank" rel="noopener noreferrer">Containers and Orchestration</a>
 4. <a href="#databases-dns-and-platform-services" target="_blank" rel="noopener noreferrer">Databases, DNS, and Platform Services</a>
-5. <a href="#storage-security-and-content-delivery" target="_blank" rel="noopener noreferrer">Storage, Security, and Content Delivery</a>
-6. <a href="#messaging-and-streaming" target="_blank" rel="noopener noreferrer">Messaging and Streaming</a>
-7. <a href="#serverless-apis-and-identity" target="_blank" rel="noopener noreferrer">Serverless, APIs, and Identity</a>
+5. <a href="#analytics-and-big-data" target="_blank" rel="noopener noreferrer">Analytics and Big Data</a>
+6. <a href="#storage-security-and-content-delivery" target="_blank" rel="noopener noreferrer">Storage, Security, and Content Delivery</a>
+7. <a href="#messaging-and-streaming" target="_blank" rel="noopener noreferrer">Messaging and Streaming</a>
+8. <a href="#serverless-apis-and-identity" target="_blank" rel="noopener noreferrer">Serverless, APIs, and Identity</a>
 
 ## Overview
 
@@ -33,6 +34,7 @@ This README provides a one-view index of the AWS Solutions Architect Associate t
 | 15. Containers on AWS: ECS, Fargate, ECR & EKS | Containers and Orchestration | <a href="https://quizlet.com/tr/1165994820/15containers-on-aws-ecs-fargate-ecr-eks-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSexbSYlU7WjR3zpFpIzAbKACGIjsub4a9nuPmvp5TQH8VYhKg/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 | 16. AWS Server Solutions | Serverless, APIs, and Identity | <a href="https://quizlet.com/tr/1166453189/16aws-server-solutions-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3wzwdHgyjqxhT75s4sn1KAbOVdefmOK3bD0ppoRWvF_Lodg/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 | 17. AWS Databases | Databases, DNS, and Platform Services | <a href="https://quizlet.com/tr/1166911459/17aws-databases-expanded-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4joFcvAZnip1d5tgSRXFTUntaJANhv_ShHQKarzTC9iy_jg/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
+| 18. Data Analytics | Analytics and Big Data | <a href="https://quizlet.com/tr/1167740273/18data-analytics-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXm9xOhPhOJAO55u0fBMemEaUZyAwwZ3JCkgMLgHluoIelbA/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 
 ## Identity, Compute, and Availability
 
@@ -58,6 +60,12 @@ This README provides a one-view index of the AWS Solutions Architect Associate t
 | Databases, DNS, and Platform Services | 7. Route 53 | DNS records, hosted zones, health checks, and routing policies. | route 53<br>Record Types<br>Hosted Zones<br>Record TTL<br>Alias and Alias Targets Records<br>Routing Policies<br>Simple Based Routing<br>Weighted Based Routing<br>Latency Based Routing<br>Health Check<br>Geolocation Routing<br>Geoproximity Routing<br>IP-based Routing<br>Multi-Value Answer Routing<br>Failover Routing | <a href="https://quizlet.com/tr/1165810661/7route-53-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> / <a href="https://docs.google.com/forms/d/e/1FAIpQLScK_qHMIAO1WyZ3ZuZtSW4h1KoFVjTCRW_362AYJTTuzaZ-OQ/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 | Databases, DNS, and Platform Services | 8. Golden AMI and Elastic Beanstalk | Image standardization and managed application deployment basics. | Golden AMI<br>Elastic Beanstalk | <a href="https://quizlet.com/tr/1165811681/8golden-ami-and-elastic-beanstalk-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> / <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYqsu7NlxVKmzqyNRayPzeCaAHQvUkFe9LYIiBmf_BIDQTng/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 | Databases, DNS, and Platform Services | 17. AWS Databases | Core AWS database services across relational, caching, document, graph, key-value, and object storage use cases. | Amazon RDS<br>Amazon Aurora<br>Amazon ElastiCache<br>Amazon DynamoDB<br>Amazon S3<br>Amazon DocumentDB<br>Amazon Neptune | <a href="https://quizlet.com/tr/1166911459/17aws-databases-expanded-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> / <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4joFcvAZnip1d5tgSRXFTUntaJANhv_ShHQKarzTC9iy_jg/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
+
+## Analytics and Big Data
+
+| Category | MCQ Set | Description | Topics Covered | Link |
+| --- | --- | --- | --- | --- |
+| Analytics and Big Data | 18. Data Analytics | Analytics, warehousing, ETL, search, streaming, and visualization services for AWS data platforms. | AWS Athena<br>Amazon RedShift<br>Amazon OpenSearch<br>Amazon EMR<br>AWS QuickSight<br>AWS Glue<br>Lake Formation<br>Amazon Managed Service for Apache Flink<br>Amazon Managed Streaming for Apache Kafka (MSK)<br>Amazon Big Data Ingestion Pipeline | <a href="https://quizlet.com/tr/1167740273/18data-analytics-flash-cards/?i=5yz8hi&x=1jqt" target="_blank" rel="noopener noreferrer">Flashcards</a> / <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXm9xOhPhOJAO55u0fBMemEaUZyAwwZ3JCkgMLgHluoIelbA/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Quiz</a> |
 
 ## Storage, Security, and Content Delivery
 
